@@ -51,7 +51,8 @@ public class Principal {
             System.out.println("Obresidade grau III");
         }
 
-        //Exercicio 3
+        sc.close();
+        //Exercicios 3 e 4 ficam como desafio, em caso de dúvidas, entrem em contato comigo :)
 
 
     }
