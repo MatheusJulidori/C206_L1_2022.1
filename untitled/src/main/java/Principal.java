@@ -55,6 +55,28 @@ public class Principal {
         //Exercicios 3 e 4 ficam como desafio, em caso de dúvidas, entrem em contato comigo :)
 
 
+        System.out.println("Essa frase é gigante," +
+                " é só ter fé" + "Interpolei" + " essa aqio tambem" +
+        "Essa tambem");
+
+        System.out.println("Peso: " + peso + "Kg");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 
 }
