@@ -12,14 +12,14 @@ public class Calculadora {
 
     public static double volume(double raio){
         qtdUsada++;
-        return (4/3)*PI*raio*raio*raio;
+        return (4.0/3)*PI*raio*raio*raio;
     }
 
     public static int getQtdUsada(){
         return qtdUsada;
     }
 
-    public static void setPI(double _PI){
+    public static void setPI(double _PI){//Operador "this." não funciona em atributos estáticos
         PI = _PI;
     }
 
